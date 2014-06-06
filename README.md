@@ -3,7 +3,8 @@ DIBS
 
 DIBS: Just-in-time Congestion Mitigation for Data Centers
 
-This is our NS-3 simulation code for DIBS, appearing at Eurosys 2013.
+This is our NS-3 simulation code for DIBS, appearing at Eurosys 2013. We use NS 3.15 version. Please apply the patch to
+NS-allinone-3.15/ns-3.15
 
 Abstract:
 Data centers must support a range of workloads with differing
