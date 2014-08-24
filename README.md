@@ -26,3 +26,5 @@ routers in a testbed, and in simulation, and we demonstrate
 that it reduces the 99th percentile of delay-sensitive query
 completion time by up to 85%, with very little impact on
 other traffic.
+
+Contact: Rui Miao (rmiao@usc.edu)
